@@ -1,0 +1,72 @@
+Sirisak Chantanate
+maicmi@me.com +66 95 895 9675
+         linkedin.com/in/sirisak-chantanate-b0b786111		github.com/openmymai
+	https://www.kaggle.com/maicmi
+Summary
+Currently a Software Engineer (Machine Learning) looking for transition into the professional cloud industry as Software Engineer/Cloud Engineer. I have 3 years experience working as a data scientist and more than 5 years of strong academic background in analytical modelling and programming, I strive to bring high-quality business intelligence solutions to businesses seeking higher efficiency. With expertise in advanced statistical algorithms, machine learning and forecasting using TensorFlow.
+Education
+       Chiang Mai University
+Bachelor of Engineering - BE, Computer Engineering
+Jun 1996 - May 2000
+Licenses & Certifications
+• AWS Certified Solution Architect Professional •  AWS Certified Cloud Practitioner
+• AWS Migration Ambassador Foundations (Business)
+• Microsoft Certified: Azure Fundamentals
+• Cisco Certificate Internetwork Expert (CCIE R&S #18148)
+Experience
+       Software Engineer
+Freelance
+Jan 2018 - Present
+Turned data into actionable insights, providing C-suite stakeholders with insightful recommendations to streamline business operations and improve customer experience.
+Generated statistical reports and visualizations, providing key insights for marketing campaigns and initiatives, including A/B testing, customer retention, brand awareness, and global expansion..
+Worked with senior leadership to develop and implement digital marketing strategy, identifying and implementing new tactics to improve campaign performance, resulting in revenue increasing from search marketing campaign.
+Responsible for the analysis, design, testing, development and maintenance of best in class software experiences. 
+Adept with the agile software development lifecycle and DevOps principles.
+       Solution Area Specialist - Evaluation Specialist
+Denave
+Nov 2022 - Jan 2023
+Support Tele Sales to drive large and complex deals with advance workload in SMB.
+Support SMB Segment to drive Cloud Adoption, Cloud Consumption, Upsell and Cross Sell Cloud Solutions with high propensity customer sets through sell-with partners, and unmanage partners.
+Supporting partners to drive Azure and Office 365 campaign/programs developed by Microsoft.
+Supporting partners to drive leads/opportunities from Microsoft engines include Marketing, Tele-sales.
+       Technical Presale & Project Manager
+Aware Group
+Aug 2022 - Nov 2022
+Acquire new leads, new opportunities and new projects from corporates and enterprises through pre-sales efforts and activities, customer engagements and sales efforts and activities
+Supporting the ability for cloud solutions sales and selling and delivering cloud migration services.
+       
+       IP Solution Manager
+Huawei Technologies
+Jan 2019 - Jan 2020 (1 year 1 month)
+Seek out, identify, develop, and close business opportunities with key service provider accounts Collect and analyze all marketing information Enhance customer relationships.
+       Senior Network Engineer
+Aware Group
+Jan 2017 - Dec 2018 (2 years)
+Develops project scope to include work services estimate, services, resource assignments and allocations, and statements of work for assigned projects.
+Senior IT Specialist
+IBM
+Jun 2015 - Dec 2016 (1 year 7 months)
+Lead and motivate professional Consultant/Engineer in a team environment to meet aggressive goals and pre-defined timelines. Work cross functional within an organization managing multiple complex projects.
+       Regional Network Consultant
+3D Networks
+Jan 2013 - May 2015 (2 years 5 months)
+Lead and Contribute to the design, development, and implementation of winning technical solutions for customers to introduce and establish new technology solutions into their business and business processes.
+         Network Specialist
+Dimension Data
+Jan 2007 - Oct 2012 (5 years 10 months)
+Responsible for understanding customer Strategy, Organization, Process, Business requirement, IT Architecture. Identify innovative opportunities to improve business practices in support of key organizational strategies.
+Network Consultant
+Datacraft-Asia
+May 2001 - Dec 2006 (5 years 8 months)
+Provides consultancy advice on systems design and developments Emphasis is on conceptualization and providing consultancy advice to customers rather than hands-on configuration.
+
+Skills
+Technical Skills
+Machine Learning • Data Analysis and Visualization • AWS [IAM, EC2] • Azure [VM, AKS, Functions] • System Administration • Microservices • Networking and Troubleshooting
+Tech Stack
+Python • JavaScript • MongoDB • ReactJS • NodeJS • TensorFlow • Scikit-learn
+Interpersonal Skills
+Customer focused • Effective Communicator • Highly Adaptable
+Key Accomplishments
+Optimized customer recommendations model
+that resulted in 30% revenue growth in kiosk.
